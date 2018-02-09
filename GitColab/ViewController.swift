@@ -20,5 +20,10 @@ class ViewController: UIViewController {
         print("bugsss fix")
     }
 
+    func logout() {
+        
+    }
+
+
 }
 
